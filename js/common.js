@@ -1,2 +1,1 @@
-var foo = "";
-alert(foo);
+$("#header").load("header.html");
